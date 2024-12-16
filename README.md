@@ -5,17 +5,16 @@
 <p>Here is the link to my brother and I's Scratch page: <a href="https://scratch.mit.edu/users/Omega_Utimate/">https://scratch.mit.edu/users/Omega_Utimate/</a></p>
 
 <h2 style="background-color:black;color:white;">Technical Certifications</h2>
-<ul>
-    <li>src/George Huang_Computer Programming 2 Python_05062024.pdf</li>
-    <li>src/George Huang_Digital Media I_12182023.pdf</li>
-    <li>src/George Huang_Game Development Fundamentals_12162024.pdf</li>
-    <li>src/George Huang_Graphic Print Design 2 _12122024.pdf</li>
-    <li>src/George Huang_Graphic Print Design 1_12102024.pdf</li>
-    <li>src/George Huang_Exploring Computer Science_05102024.pdf</li>
-    <li>src/George Huang_Introduction to Screen Printing_04172024.pdf</li>
-</ul>
+<div>
+    <img src="src/George Huang_Computer Programming 2 Python_05062024.pdf" alt="Certification 1" style="width:150px;height:auto;">
+    <img src="src/George Huang_Graphic Print Design 2 _12122024.pdf" alt="Certification 2" style="width:150px;height:auto;">
+    <img src="src/George Huang_Game Development Fundamentals_12162024.pdf" alt="Certification 3" style="width:150px;height:auto;">
+    <img src="src/George Huang_Exploring Computer Science_05102024.pdf" alt="Certification 4" style="width:150px;height:auto;">
+    <img src="src/George Huang_Digital Media I_12182023.pdf" alt="Certification 5" style="width:150px;height:auto;">
+    <img src="src/George Huang_Graphic Print Design 1_12102024.pdf" alt="Certification 6" style="width:150px;height:auto;">
+    <img src="src/George Huang_Introduction to Screen Printing_04172024.pdf" alt="Certification 7" style="width:150px;height:auto;">
+</div>
 
 <h2 style="background-color:black;color:white;">Individual Projects</h2>
 
 <h2 style="background-color:black;color:white;">Group Projects</h2>
-
