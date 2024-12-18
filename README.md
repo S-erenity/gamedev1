@@ -5,29 +5,7 @@
 <p>Here is the link to my brother and I's Scratch page: <a href="https://scratch.mit.edu/users/Omega_Utimate/">https://scratch.mit.edu/users/Omega_Utimate/</a></p>
 
 <h2 style="background-color:black;color:white;">Technical Certifications</h2>
-<div>
-    <object data="src/George Huang_Computer Programming 2 Python_05062024.pdf" type="application/pdf" width="300" height="400">
-        <p>Your browser does not support PDFs. <a href="src/George Huang_Computer Programming 2 Python_05062024.pdf">Download Certification 1</a></p>
-    </object>
-    <object data="src/George Huang_Graphic Print Design 2 _12122024.pdf" type="application/pdf" width="300" height="400">
-        <p>Your browser does not support PDFs. <a href="src/George Huang_Graphic Print Design 2 _12122024.pdf">Download Certification 2</a></p>
-    </object>
-    <object data="src/George Huang_Game Development Fundamentals_12162024.pdf" type="application/pdf" width="300" height="400">
-        <p>Your browser does not support PDFs. <a href="src/George Huang_Game Development Fundamentals_12162024.pdf">Download Certification 3</a></p>
-    </object>
-    <object data="src/George Huang_Exploring Computer Science_05102024.pdf" type="application/pdf" width="300" height="400">
-        <p>Your browser does not support PDFs. <a href="src/George Huang_Exploring Computer Science_05102024.pdf">Download Certification 4</a></p>
-    </object>
-    <object data="src/George Huang_Digital Media I_12182023.pdf" type="application/pdf" width="300" height="400">
-        <p>Your browser does not support PDFs. <a href="src/George Huang_Digital Media I_12182023.pdf">Download Certification 5</a></p>
-    </object>
-    <object data="src/George Huang_Digital Media I_12182023.pdf" type="application/pdf" width="300" height="400">
-        <p>Your browser does not support PDFs. <a href="src/George Huang_Graphic Print Design 1_12102024.pdf">Download Certification 6</a></p>
-    </object>
-    <object data="src/George Huang_Introduction to Screen Printing_04172024.pdf" type="application/pdf" width="300" height="400">
-        <p>Your browser does not support PDFs. <a href="src/George Huang_Introduction to Screen Printing_04172024.pdf">Download Certification 7</a></p>
-    </object>
-</div>
+#certifications here
 
 <h2 style="background-color:black;color:white;">Individual Projects</h2>
 
