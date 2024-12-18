@@ -4,7 +4,7 @@ Hi, I’m George Huang, and game development isn’t just a hobby—it’s a pas
 
 Here is the link to my brother and I's Scratch page: [https://scratch.mit.edu/users/Omega_Utimate/](https://scratch.mit.edu/users/Omega_Utimate/)
 
-## Technical Certifications
+# Technical Certifications
 
 ![Game Development Certification](images/GameDevCert.png)
 ![Python Certification](images/PythonCert.png)
@@ -12,11 +12,21 @@ Here is the link to my brother and I's Scratch page: [https://scratch.mit.edu/us
 ![Computer Science Certification](images/ECompSciCert.png)
 ![Digital Media Certification](images/DMediaCert.png)
 
-## Individual Projects
+# Individual Projects
 
-## Group Projects
+## Klix
 
-# AstroCats
+Welcome to KLIX, the ultimate clicker game where every tap counts! In KLIX, your goal is simple: click the box as many times as possible to rack up points and unlock powerful upgrades. The more clicks you unleash, the faster you progress through the game.
+
+But be warned, the challenge doesn't end with clicking alone. Along the way, you'll encounter various upgrades that enhance your clicking power, allowing you to earn points even faster. As you continue to click your way through the game, you'll unlock badges that showcase your achievements and progress.
+
+Are you ready to embark on a clicking adventure like no other? Get your fingers ready and dive into the addictive world of KLIX!
+
+https://github.com/S-erenity/KLIX
+
+# Group Projects
+
+## AstroCats
 
 In a Universe millions of miles away, a planet known as Felinnea known for its lush landscape and advanced technology a war has erupted and Aliens have invaded. The Alien Mothership has invaded the entire universe and Felinnea is the last planet that hasn’t been conquered by the enemy. Amid the chaos Queen of Felinnea was able to take control of their last ship and send one last Cat warrior into space to ask the human race for help to defeat the aliens and save their planet. Cat is their last chance to save their planet and defeat the aliens. Cat needs all the help it can get to escape the planet and fight off the enemy warships and make it to Earth. It is a race against time and the fight for domination. 
 
