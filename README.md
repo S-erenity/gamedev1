@@ -15,5 +15,15 @@ Here is the link to my brother and I's Scratch page: [https://scratch.mit.edu/us
 ## Individual Projects
 
 ## Group Projects
+
+# AstroCats
+
+In a Universe millions of miles away, a planet known as Felinnea known for its lush landscape and advanced technology a war has erupted and Aliens have invaded. The Alien Mothership has invaded the entire universe and Felinnea is the last planet that hasn’t been conquered by the enemy. Amid the chaos Queen of Felinnea was able to take control of their last ship and send one last Cat warrior into space to ask the human race for help to defeat the aliens and save their planet. Cat is their last chance to save their planet and defeat the aliens. Cat needs all the help it can get to escape the planet and fight off the enemy warships and make it to Earth. It is a race against time and the fight for domination. 
+
 My Role: Graphic Designer & UI Designer
 ![GroupProject](images/GProject.png)
+
+Any images with the initials "GH" is my work and contribution.
+https://github.com/RubyJacobsen/GameDevTeam2
+![GroupProject](images/Gameplayscreen.png)
+
