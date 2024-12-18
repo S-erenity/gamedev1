@@ -15,3 +15,5 @@ Here is the link to my brother and I's Scratch page: [https://scratch.mit.edu/us
 ## Individual Projects
 
 ## Group Projects
+My Role: Graphic Designer & UI Designer
+![GroupProject](images/GProject.png)
