@@ -6,11 +6,11 @@
 
 <h2 style="background-color:black;color:white;">Technical Certifications</h2>
 <div>
-    <img src="GameDevCert.png" alt="Game Development Certification" style="width:300px;height:auto;">
-    <img src="PythonCert.png" alt="Python Certification" style="width:300px;height:auto;">
-    <img src="GDesignCert.png" alt="Graphic Design Certification" style="width:300px;height:auto;">
-    <img src="ECompSciCert.png" alt="Computer Science Certification" style="width:300px;height:auto;">
-    <img src="DMediaCert.png" alt="Digital Media Certification" style="width:300px;height:auto;">
+    ![Gameplay](images/GameDevCert.png)
+    ![Gameplay](images/PythonCert.png)
+    ![Gameplay](images/GDesignCert.png)
+    ![Gameplay](images/ECompSciCert.png)
+    ![Gameplay](images/DMediaCert.png)
 </div>
 
 <h2 style="background-color:black;color:white;">Individual Projects</h2>
