@@ -43,10 +43,13 @@ https://github.com/RubyJacobsen/GameDevTeam2
 
 ## Flappy Bird 2.0
 
+Better than Flappy Bird. Need I say more?
+
 My Role: Graphic Designer & Animator
 ![GalacticEagleGH](https://github.com/user-attachments/assets/83240387-98a1-42ab-ada8-22a7e753cc1e)
 
 
 All game sprites are my contribution.
 https://github.com/seanroberts216/GameDev2Team3
+
 ![Screenshot 2025-01-27 at 8 40 03 AM](https://github.com/user-attachments/assets/9885edb0-337a-437c-b80d-da2ca53ada7c)
