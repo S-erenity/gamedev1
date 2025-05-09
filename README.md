@@ -35,11 +35,11 @@ Link to project: https://github.com/S-erenity/KLIX
 In a Universe millions of miles away, a planet known as Felinnea known for its lush landscape and advanced technology a war has erupted and Aliens have invaded. The Alien Mothership has invaded the entire universe and Felinnea is the last planet that hasn’t been conquered by the enemy. Amid the chaos Queen of Felinnea was able to take control of their last ship and send one last Cat warrior into space to ask the human race for help to defeat the aliens and save their planet. Cat is their last chance to save their planet and defeat the aliens. Cat needs all the help it can get to escape the planet and fight off the enemy warships and make it to Earth. It is a race against time and the fight for domination. 
 
 My Role: Graphic Designer & UI Designer
-![GroupProject](images/GProject.png)
+![GroupProject](images/GProject.png) (Game sprites)
 
 Any images with the initials "GH" is my work and contribution.
 Link to project: https://github.com/RubyJacobsen/GameDevTeam2
-![GroupProject](images/Gameplayscreen.png)
+![GroupProject](images/Gameplayscreen.png) (Gameplay screen for Astrocats)
 
 ## Flappy Bird 2.0
 
@@ -49,8 +49,8 @@ My Role: Graphic Designer & Animator
 
 All game sprites are my contribution.
 
-![GalacticEagleGH](https://github.com/user-attachments/assets/83240387-98a1-42ab-ada8-22a7e753cc1e)
+![GalacticEagleGH](https://github.com/user-attachments/assets/83240387-98a1-42ab-ada8-22a7e753cc1e) (Galactic Eagle Boss)
 
 Link to project: https://github.com/seanroberts216/GameDev2Team3
 
-![Screenshot 2025-01-27 at 8 40 03 AM](https://github.com/user-attachments/assets/9885edb0-337a-437c-b80d-da2ca53ada7c)
+![Screenshot 2025-01-27 at 8 40 03 AM](https://github.com/user-attachments/assets/9885edb0-337a-437c-b80d-da2ca53ada7c) (Gameplay screen)
